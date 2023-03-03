@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/video-dome-test/static/css/main.58462fbc.css",
+    "main.js": "/video-dome-test/static/js/main.826514ac.js",
+    "index.html": "/video-dome-test/index.html",
+    "main.58462fbc.css.map": "/video-dome-test/static/css/main.58462fbc.css.map",
+    "main.826514ac.js.map": "/video-dome-test/static/js/main.826514ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58462fbc.css",
+    "static/js/main.826514ac.js"
+  ]
+}
